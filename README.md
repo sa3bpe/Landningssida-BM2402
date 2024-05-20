@@ -8,8 +8,8 @@
 <h2>BM-2402 server information</h2>
 <h4><p>Här hittar du lite matnyttiga länkar (info direkt från servern):</p></h4>
 <a href="http://bm2402.dmrsweden.se/status/list.htm">Anslutna stationer</a><p>
-<a href="http://bm2402.dmrsweden.se/status/monitor.htm">RDAC status (om tillämpbart)</a></p><p>
-<a href="http://bm2402.dmrsweden.se/status/status.htm">Server status</a>
+<a href="http://bm2402.dmrsweden.se/status/monitor.htm">RDAC status (om tillämpbart)</a><p>
+<a href="http://bm2402.dmrsweden.se/status/status.htm">Server status</a><p>
 <h4><p>Support på Svenska (externa länkar):</p></h4>
 <a href="https://www.facebook.com/groups/678641648819659">Facebookgruppen SWEDMR</a><p>
 <a href="https://swedmr.se/">www.swedmr.se</a><p>
