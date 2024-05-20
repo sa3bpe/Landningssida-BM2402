@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BM-2402 Server Information</title>
+    <title>BM2402 Server Information</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,8 +12,9 @@
             padding: 0;
         }
         .container {
-            width: 50%;
-            margin: 0 auto;
+            width: 80%;
+            max-width: 800px;
+            margin: 20px auto;
             background-color: #fff;
             padding: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -46,6 +47,18 @@
         a:hover {
             text-decoration: underline;
         }
+        @media (max-width: 600px) {
+            .container {
+                width: 95%;
+                padding: 10px;
+            }
+            h2 {
+                font-size: 1.5em;
+            }
+            h4 {
+                font-size: 1.2em;
+            }
+        }
     </style>
 </head>
 <body>
@@ -55,7 +68,7 @@
         </div>
         <hr>
         <h2>BM2402 Server Information</h2>
-        <h4>Här hittar du lite matnyttiga länkar (info direkt från servern):</h4>
+        <h4>Här hittar du lite matnyttiga lnkar (info direkt från servern):</h4>
         <p><a href="http://bm2402.dmrsweden.se/status/list.htm">Anslutna stationer</a></p>
         <p><a href="http://bm2402.dmrsweden.se/status/monitor.htm">RDAC status (om tillämpbart)</a></p>
         <p><a href="http://bm2402.dmrsweden.se/status/status.htm">Server status</a></p>
