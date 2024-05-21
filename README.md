@@ -17,4 +17,7 @@
 <p><a href="https://radioid.net/">radioid.net</a></p>		
 <p><a href="https://support.brandmeister.network/servicedesk/customer/user/login?destination=portals">BrandMeister Help Center</a></p>
 
+# Med bidrag från:
 
+SA7BGG
+SA3BPE
